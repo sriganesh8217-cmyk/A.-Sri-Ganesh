@@ -1,1 +1,16 @@
 # A.-Sri-Ganesh
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sri Ganesh</h1><br><h3 align="center">🚀 Aspiring Full-Stack Developer | BTech 3rd Year Student</h3><br><br>---<br><br>### 👨‍💻 About Me<br>- 🎓 BTech 3rd Year Student from Andhra Pradesh  <br>- 💡 Passionate about building real-world web applications  <br>- 🌐 Interested in Full-Stack Development  <br>- 📈 Focused on improving problem-solving & coding skills  <br><br>---<br><br>### 🔭 I’m currently working on<br>- 🚀 Building responsive web projects using HTML, CSS, JavaScript  <br>- ⚡ Exploring backend development (Node.js)<br><br>---<br><br>### 🌱 I’m currently learning<br>- 📚 Data Structures & Algorithms (DSA)  <br>- 🟨 JavaScript (Advanced concepts)  <br>- 🌐 Full-Stack Development  <br><br>---<br><br>### 👯 I’m looking to collaborate on<br>- 🤝 Web development projects  <br>- 🌍 Open-source contributions (beginner-friendly)<br><br>---<br><br>### 🤝 I’m looking for help with<br>- ⚙️ Backend development  <br>- 🧠 Writing clean & scalable code  <br>- 🏗️ Real-world project architecture  <br><br>---<br><br>### 💬 Ask me about<br>- 💻 HTML, CSS, JavaScript  <br>- 🗄️ DBMS basics  <br>- 🌐 Web development fundamentals  <br><br>---<br><br>### ⚡ Fun fact<br>> I love understanding how real-world applications work behind the scenes 🚀<br><br>---<br><br>### 🛠️ Tech Stack<br>- 💻 HTML | CSS | JavaScript  <br>- 🟢 Node.js (Learning)  <br>- 🗄️ DBMS  <br><br>---<br><br>### 📫 Connect with me<br>- 📧 Email: akuthotasriganesh@gmail.com  <br>- 💼 LinkedIn: www.linkedin.com/in/akuthota-sri-ganesh-5759563aa  <br><br>---<br><br>⭐ **"Consistency + Projects = Success in Tech"**
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sriganesh8217-cmyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sriganesh8217-cmyk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sriganesh8217-cmyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=sriganesh8217-cmyk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
